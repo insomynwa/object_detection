@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jagoan_neon_lolipop</folder>
+	<filename>jnp_10.jpg</filename>
+	<path>D:\Dev\Deep and Machine Learning\images_data\train\data\images\test\jnp_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jagoan_neon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>95</ymin>
+			<xmax>591</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

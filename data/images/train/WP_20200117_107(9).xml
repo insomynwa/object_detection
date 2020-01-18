@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WP_20200117_107(9).jpg</filename>
+	<path>D:\Dev\Deep and Machine Learning\images_data\train\data\images\train\WP_20200117_107(9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jagoan neon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>34</ymin>
+			<xmax>547</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
